@@ -1,6 +1,6 @@
 # React FullStack Starter Kit
 
-This is for React developers who wants to create full-stack application
+This is for web developers who wants to create full-stack React, Redux application
 
 ### Tech
 
